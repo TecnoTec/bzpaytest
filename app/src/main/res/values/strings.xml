@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BZPayLogin</string>
+    <string name="login_user">Usuario</string>
+    <string name="login_pass">Password</string>
+</resources>

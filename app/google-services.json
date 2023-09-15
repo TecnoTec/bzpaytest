@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "110853568339",
+    "project_id": "logintest-518d4",
+    "storage_bucket": "logintest-518d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110853568339:android:b7c2110e9b7727fd0553a6",
+        "android_client_info": {
+          "package_name": "com.rnavarro.bzpaylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110853568339-vjsl5saec83klcpdl2go666k5ntmt8a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCoWn2tp3qfYiUP4jR3KsQxtLkffDy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110853568339-jecps6plumetcog3465kqc1ksu1tmlus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110853568339:android:e9a45a7e9d1e81db0553a6",
+        "android_client_info": {
+          "package_name": "com.rnavarro.bzpaytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110853568339-vjsl5saec83klcpdl2go666k5ntmt8a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfCoWn2tp3qfYiUP4jR3KsQxtLkffDy_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110853568339-jecps6plumetcog3465kqc1ksu1tmlus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
