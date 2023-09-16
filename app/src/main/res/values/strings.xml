@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">BZPayLogin</string>
-    <string name="login_user">Usuario</string>
+    <string name="login_user">Email</string>
     <string name="login_pass">Password</string>
+
+    <string name="signin">Bienvenidos LoginTest</string>
+    <string name="signup">Registrarse</string>
+    <string name="enter">Sign in</string>
+    <string name="inscribirse">Sign up</string>
+
+    <string name="registro"> Aun no tienes una cuenta registrate </string>
+    <string name="aqui"> Aqui </string>
 </resources>
