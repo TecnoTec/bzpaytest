@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">BZPayLogin</string>
+    <string name="app_name">bzpaytest</string>
     <string name="login_user">Email</string>
     <string name="login_pass">Password</string>
 
@@ -10,4 +10,6 @@
 
     <string name="registro"> Aun no tienes una cuenta registrate </string>
     <string name="aqui"> Aqui </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
